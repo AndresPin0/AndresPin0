@@ -49,8 +49,5 @@
 </div>
 
 ---
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=andrespin0&icon=7&color=12" alt="Profile Views" />
-</div>
+[![](https://visitcount.itsvg.in/api?id=andrespin0&icon=7&color=12)](https://visitcount.itsvg.in)
 
-> "Code is like humor. When you have to explain it, it's bad." – Cory House 
